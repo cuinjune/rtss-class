@@ -1,7 +1,5 @@
 # rtss-class
-real-time social spaces class assignments
+Real Time Social Spaces Class Assignments
 
+* [Week1 Assignment](week1/)
 
-
-* p5.js Demo: https://editor.p5js.org/cuinjune/present/5VpmIYVCd
-* p5.js Code: https://editor.p5js.org/cuinjune/sketches/5VpmIYVCd
