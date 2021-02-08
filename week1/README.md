@@ -38,7 +38,7 @@ So I created a prototype of a video communication tool called "8-bit Room" which
 * What is shared between participants?  
   -> Pixelated face of each participant.
 * Where is this interaction taking place?  
-  -> They see each other and chat in the web page.
+  -> They can see each other's face on the web page and chat through the microphone/speaker.
 * Why?  What is the nature of this interaction?  
   -> It makes participants feel more comfortable to show their faces through the webcam because it can protect their privacy.
 
