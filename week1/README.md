@@ -31,14 +31,14 @@ So I created a prototype of a video communication tool called "8-bit Room" which
 * p5.js Demo: https://editor.p5js.org/cuinjune/present/5VpmIYVCd
 * p5.js Code: https://editor.p5js.org/cuinjune/sketches/5VpmIYVCd
 
-### Questions
+### Questions & Answers
 
 * Who is this for?  
-  friends and strangers
+  -> Friends and strangers
 * What is shared between participants?  
-  Pixelated face of each participant.
+  -> Pixelated face of each participant.
 * Where is this interaction taking place?  
-  They see each other and chat in the web page.
+  -> They see each other and chat in the web page.
 * Why?  What is the nature of this interaction?  
-  It makes participants feel more comfortable to show their faces through the webcam because it can protect their privacy.
+  -> It makes participants feel more comfortable to show their faces through the webcam because it can protect their privacy.
 
